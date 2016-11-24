@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="51265" started-at="2016-11-22T22:22:34Z" finished-at="2016-11-22T22:23:26Z">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="51265" started-at="2016-11-22T22:22:34Z" finished-at="2016-11-22T22:23:26Z">
+      <class name="testcases.gmaillogout">
+        <test-method status="PASS" signature="setUpp()[pri:0, instance:testcases.gmaillogout@20e2cbe0]" name="setUpp" duration-ms="37957" started-at="2016-11-22T22:22:34Z" finished-at="2016-11-22T22:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpp -->
+      </class> <!-- testcases.gmaillogout -->
+      <class name="testcases.gmaillogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.gmaillogin@51efea79]" name="setUp" duration-ms="13283" started-at="2016-11-22T22:23:12Z" finished-at="2016-11-22T22:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- testcases.gmaillogin -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
